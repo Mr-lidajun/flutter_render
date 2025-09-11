@@ -1,4 +1,4 @@
-package io.flutter.render.flutter_render
+package io.flutter.render
 
 import io.flutter.embedding.android.FlutterActivity
 
